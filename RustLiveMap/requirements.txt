@@ -1,0 +1,4 @@
+PySide6
+websocket-client
+rust-map-parser
+paramiko
